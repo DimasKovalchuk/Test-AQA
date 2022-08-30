@@ -5,3 +5,4 @@ redmi
 nokia
 simens
 motorola
+meizu
