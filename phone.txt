@@ -2,3 +2,6 @@ samsung
 iphone
 xiomi
 redmi
+nokia
+simens
+motorola
